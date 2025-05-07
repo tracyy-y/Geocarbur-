@@ -1,4 +1,5 @@
 # Geocarbur
+<<<<<<< HEAD
 Geocarbue est une platforme de visualisation et d'analyse des stations de carburant dans la ville d'abidjan. 
 
 ## Fonctionnalités
@@ -15,3 +16,6 @@ Geocarbue est une platforme de visualisation et d'analyse des stations de carbur
 - Implémentation de la BD;
 - Developpement du backend;
 - Developpement du frontend.
+=======
+Geocarbur est une plateforme de visualisation et d'analyse des stations de carburant dans la ville d'Abidjan.
+>>>>>>> 0aeb3a3a24ade9a433ef0dbde2a7b76129600a09
